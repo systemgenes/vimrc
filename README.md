@@ -1,0 +1,2 @@
+# vimrc
+The combined vim
